@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-# [![Mai's github stats](https://github-readme-stats.vercel.app/api?username=Mai0313&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Mai's Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai0313&theme=radical)
 ![Top Language by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mai0313&theme=radical)
 ![Top Language by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mai0313&theme=radical)
 ![Mai's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mai0313&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mai0313&theme=radical)
-
+[![Mai's github stats](https://github-readme-stats.vercel.app/api?username=Mai0313&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mai0313/Mai0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
