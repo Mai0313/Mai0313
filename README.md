@@ -30,7 +30,7 @@
 </p>
 
 <p align='center'>
-  🎓 支持的开发语言<br/><br/>
+  🎓 Programing Language<br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
