@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="198px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai0313&theme=radical" />
+    <img height="198px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai0313&size_weight=0.5&count_weight=0.5&theme=radical" />
   </a>
 </p>
 <p align="center">
