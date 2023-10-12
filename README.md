@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai0313&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark" />
+    <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mai0313&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mai0313&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark" />
