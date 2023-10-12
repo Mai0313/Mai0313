@@ -1,12 +1,12 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="198px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai0313&size_weight=0.5&count_weight=0.5&theme=radical" />
+    <img height="198px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai0313&size_weight=0.5&count_weight=0.5&theme=github_dark" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai0313&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical" />
+    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai0313&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark" />
   </a>
 </p>
 
