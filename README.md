@@ -24,16 +24,24 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mai0313&size_weight=0.5&count_weight=0.5&show_icons=true&theme=2077" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mai0313&size_weight=0.5&count_weight=0.5&show_icons=true&theme=2077" />
+
+### Socials
+
+<p align="left">
+  <a href="https://www.github.com/mai0313" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height="198px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai0313&theme=2077" />
-  </a>
-</p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mai0313"><img src="https://github-readme-stats.vercel.app/api?username=mai0313&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="mai0313's GitHub stats" /></a>
+<a href="http://www.github.com/mai0313"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mai0313&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/mai0313"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mai0313&bg_color=181824&color=ffffff&line=a855f7&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mai0313" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai0313&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
