@@ -41,6 +41,7 @@
 
 ### 💼 Skills
 
+#### Core
 <p align="left">
     <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
@@ -54,12 +55,19 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
     </a>
+</p>
+#### Code Editors
+<p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
     </a>
     <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" />
     </a>
+</p>
+
+#### Backend
+<p align="left">
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" />
     </a>
@@ -72,6 +80,10 @@
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
     </a>
+</p>
+
+#### Platform
+<p align="left">
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
     </a>
