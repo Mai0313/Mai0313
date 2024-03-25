@@ -1,45 +1,68 @@
-### Hi there 👋
+### Hi there, I'm [Your Name] 👋
+
+I'm a [Your Job Title] specializing in [Your Specialization]. Passionate about [Your Interests], I love working on projects that [describe what kinds of projects you love working on].
+
+🔭 I’m currently working on [Project Name]
+
+🌱 I’m currently learning [What You're Learning]
+
+👯 I’m looking to collaborate on [What You Want To Collaborate On]
+
+🤔 I’m looking for help with [What You Need Help With]
+
+💬 Ask me about [What People Can Ask You About]
+
+📫 How to reach me: [Your Email]
+
+😄 Pronouns: [Your Pronouns]
+
+⚡ Fun fact: [A Fun Fact About You]
+
+### 🛠 Tech Stack
 
 <p align='center'>
-  💻 PC <br/><br/>
+  💻 **My Favorite Tools & Technologies**<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i9%2013th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%203080-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  <br/><br/> 💻 PC 2<br/><br/>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i9%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%204090-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <!-- Add or remove any technology or tool -->
 </p>
+
+### 📚 Learning & Growing
 
 <p align='center'>
-  🎓 Programing Language<br/><br/>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-<p align='center'>
-  🎓 Skills<br/><br/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+  🌱 **I'm Currently Learning**<br/><br/>
+  <!-- Add your current learning materials or subjects -->
 </p>
 
-### Socials
+### 📫 Connect with Me
 
-<p align="left">
+<p align='left'>
+  <!-- Your social media links -->
   <a href="https://www.github.com/mai0313" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <!-- Add more links if you have them -->
+</p>
+
+### 📊 GitHub Stats
+
+<p align='center'>
+  <a href="http://www.github.com/mai0313">
+    <img src="https://github-readme-stats.vercel.app/api?username=mai0313&show_icons=true&theme=radical" alt="mai0313's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/mai0313">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mai0313&theme=radical" alt="mai0313's streak" />
+  </a><br/>
+  <a href="http://www.github.com/mai0313">
+    <img src="https://activity-graph.herokuapp.com/graph?username=mai0313&theme=github" alt="mai0313's Activity Graph" />
   </a>
 </p>
 
-<b>My GitHub Stats</b>
+### 💼 Skills
 
-<a href="http://www.github.com/mai0313"><img src="https://github-readme-stats.vercel.app/api?username=mai0313&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="mai0313's GitHub stats" /></a>
-<a href="http://www.github.com/mai0313"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mai0313&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align='center'>
+  <!-- Your skills, you can use the badges or describe them with text -->
+</p>
 
-<a href="https://github.com/mai0313" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai0313&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
