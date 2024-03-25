@@ -55,9 +55,6 @@ I'm a [Your Job Title] specializing in [Your Specialization]. Passionate about [
   <a href="http://www.github.com/mai0313">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mai0313&theme=radical" alt="mai0313's streak" />
   </a><br/>
-  <a href="http://www.github.com/mai0313">
-    <img src="https://activity-graph.herokuapp.com/graph?username=mai0313&theme=github" alt="mai0313's Activity Graph" />
-  </a>
 </p>
 
 ### 💼 Skills
