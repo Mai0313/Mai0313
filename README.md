@@ -1,22 +1,4 @@
-### Hi there, I'm [Your Name] 👋
-
-I'm a [Your Job Title] specializing in [Your Specialization]. Passionate about [Your Interests], I love working on projects that [describe what kinds of projects you love working on].
-
-🔭 I’m currently working on [Project Name]
-
-🌱 I’m currently learning [What You're Learning]
-
-👯 I’m looking to collaborate on [What You Want To Collaborate On]
-
-🤔 I’m looking for help with [What You Need Help With]
-
-💬 Ask me about [What People Can Ask You About]
-
-📫 How to reach me: [Your Email]
-
-😄 Pronouns: [Your Pronouns]
-
-⚡ Fun fact: [A Fun Fact About You]
+### Hi there, I'm Wei, currently work at Mediatek 👋
 
 ### 🛠 Tech Stack
 
