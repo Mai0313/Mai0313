@@ -27,10 +27,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        id: pre-commit-autoupdate
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: feat/3d_contrib
+          title: Generate Github 3D Contrib
+          commit-message: "Feat: Generate Github 3D Contrib"
+          body: Generate Github 3D Contrib.
+  
+      - name: Auto Merge Pull Request
+        if: steps.pre-commit-autoupdate.outputs.pull-request-number
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions@github.com"
-          git add -A .
-          git commit -m "generated"
-          git push
+          gh pr merge --auto --merge feat/3d_contrib
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
