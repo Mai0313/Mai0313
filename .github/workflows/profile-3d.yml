@@ -28,18 +28,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        id: pre-commit-autoupdate
+        id: create-pr
+        uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          base: master  # push to this branch
           branch: feat/3d_contrib
-          title: Generate Github 3D Contrib
-          commit-message: "Feat: Generate Github 3D Contrib"
-          body: Generate Github 3D Contrib.
-  
+          title: "feat: Generate Github 3D Contrib"
+          body: "Generate Github 3D Contrib."
+          commit-message: "feat: Generate Github 3D Contrib"
+          delete-branch: true
+
       - name: Auto Merge Pull Request
-        if: steps.pre-commit-autoupdate.outputs.pull-request-number
-        run: |
-          gh pr merge --auto --merge feat/3d_contrib
+        continue-on-error: true
+        if: ${{ steps.create-pr.outputs.pull-request-number }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge --merge feat/3d_contrib
