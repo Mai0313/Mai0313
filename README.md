@@ -1,1 +1,1 @@
-![](./profile-3d-contrib/profile-night-view.svg)
+![Contrib Map](./profile-3d-contrib/profile-night-view.svg)
