@@ -25,6 +25,11 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Move Folder
+        run: |
+          cp -R profile-3d-contrib .github
+          rm -rf profile-3d-contrib
+
       - name: Create Pull Request
         id: create-pr
         uses: peter-evans/create-pull-request@v7

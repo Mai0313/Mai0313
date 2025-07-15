@@ -1,1 +1,1 @@
-![Contrib Map](./profile-3d-contrib/profile-night-rainbow.svg)
+![Contrib Map](./.github/profile-3d-contrib/profile-night-rainbow.svg)
