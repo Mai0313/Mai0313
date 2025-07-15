@@ -6,24 +6,6 @@
 
 version: 2
 updates:
-  # pip (Python)
-  - package-ecosystem: pip
-    directory: /
-    schedule:
-      interval: daily
-
-  # uv (Python)
-  - package-ecosystem: uv
-    directory: /
-    schedule:
-      interval: daily
-
-  # Devcontainers
-  - package-ecosystem: devcontainers
-    directory: /
-    schedule:
-      interval: weekly
-
   # GitHub Actions
   - package-ecosystem: github-actions
     directory: /
